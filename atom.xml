@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-20T07:42:41.113Z</updated>
+  <updated>2016-10-20T12:44:35.975Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,20 +19,18 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/2016/10/20/hello-world/"/>
     <id>http://yoursite.com/2016/10/20/hello-world/</id>
-    <published>2016-10-20T07:42:41.117Z</published>
-    <updated>2016-10-20T07:42:41.113Z</updated>
+    <published>2016-10-20T12:44:35.983Z</published>
+    <updated>2016-10-20T12:44:35.975Z</updated>
     
-    <content type="html"><![CDATA[<p>经过多年的无聊折腾，我终于像大多数人一样，把博客迁移到了 Github Pages 上，以前有意思的博客会慢慢迁移过来的。</p>
+    <content type="html"><![CDATA[<p>经过多年的无聊折腾，我终于像大多数人一样，从免费博客二级域名到自己建站独立域名，最后把博客迁移到了 Github Pages 上<em>(仔细一想，这是我第 6 次迁移博客了)</em>，以前有意思的东西可能会慢慢迁移过来的。</p>
 <p>这次用的是 Hexo 程序，主题是 Bootstrap-blog。</p>
 <p>以上。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;经过多年的无聊折腾，我终于像大多数人一样，把博客迁移到了 Github Pages 上，以前有意思的博客会慢慢迁移过来的。&lt;/p&gt;
-&lt;p&gt;这次用的是 Hexo 程序，主题是 Bootstrap-blog。&lt;/p&gt;
-&lt;p&gt;以上。&lt;/p&gt;
-
+      &lt;p&gt;经过多年的无聊折腾，我终于像大多数人一样，从免费博客二级域名到自己建站独立域名，最后把博客迁移到了 Github Pages 上&lt;em&gt;(仔细一想，这是我第 6 次迁移博客了)&lt;/em&gt;，以前有意思的东西可能会慢慢迁移过来的。&lt;/p&gt;
+&lt;p&gt;这次用的是 Hexo 程序，主题
     
     </summary>
     
