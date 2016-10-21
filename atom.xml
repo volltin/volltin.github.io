@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://volltin.com/"/>
   <updated>2016-10-20T12:44:35.975Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://volltin.com/</id>
   
   <author>
     <name>volltin</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/10/20/hello-world/"/>
-    <id>http://yoursite.com/2016/10/20/hello-world/</id>
+    <link href="http://volltin.com/2016/10/hello-world/"/>
+    <id>http://volltin.com/2016/10/hello-world/</id>
     <published>2016-10-20T12:44:35.983Z</published>
     <updated>2016-10-20T12:44:35.975Z</updated>
     
