@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://volltin.com/"/>
-  <updated>2016-10-22T11:53:10.297Z</updated>
+  <updated>2016-10-22T11:55:04.053Z</updated>
   <id>http://volltin.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>beamer-slide</title>
+    <title>让 beamer 制作的 PDF 自动播放</title>
     <link href="http://volltin.com/2016/10/beamer-slide/"/>
     <id>http://volltin.com/2016/10/beamer-slide/</id>
     <published>2016-10-22T11:47:54.000Z</published>
-    <updated>2016-10-22T11:53:10.297Z</updated>
+    <updated>2016-10-22T11:55:04.053Z</updated>
     
     <content type="html"><![CDATA[<p>最近用 LaTeX 里面的 beamer 包做了一下幻灯片，发现总是不能自动播放，最后发现有一条指令：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">\hypersetup&#123;pdfpagemode=FullScreen&#125;</div></pre></td></tr></table></figure>
