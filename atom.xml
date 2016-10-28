@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://volltin.com/"/>
-  <updated>2016-10-22T11:56:34.640Z</updated>
+  <updated>2016-10-28T13:37:30.528Z</updated>
   <id>http://volltin.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://volltin.com/2016/10/beamer-slide/"/>
     <id>http://volltin.com/2016/10/beamer-slide/</id>
     <published>2016-10-22T11:47:54.000Z</published>
-    <updated>2016-10-22T11:56:34.640Z</updated>
+    <updated>2016-10-28T13:37:30.528Z</updated>
     
     <content type="html"><![CDATA[<p>最近用 LaTeX 里面的 beamer 包做了一下幻灯片，发现总是不能自动播放，最后发现有一条指令：</p>
 <p><code>\hypersetup{pdfpagemode=FullScreen}</code></p>
@@ -36,7 +36,9 @@
     </summary>
     
     
-      <category term="LaTeX, Beamer" scheme="http://volltin.com/tags/LaTeX-Beamer/"/>
+      <category term="LaTeX" scheme="http://volltin.com/tags/LaTeX/"/>
+    
+      <category term="Beamer" scheme="http://volltin.com/tags/Beamer/"/>
     
   </entry>
   
